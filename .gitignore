@@ -32,3 +32,4 @@
 *.tdo
 ref/auto/refs.el
 clean.bat
+.DS_store
